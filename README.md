@@ -43,7 +43,7 @@
 
    ![image-20230806202139340](README.assets/image-20230806202139340.png)
 
-2. 设置好环境变量后点击你的仓库上方的 `Actions` 选项，第一次打开需要点击 `I understand...` 按钮，确认在 Fork 的仓库上启用 GitHub Actions 。
+2. 设置好环境变量后点击你的仓库上方的 `操作` 选项，第一次打开需要点击 `I understand...` 按钮，确认在 Fork 的仓库上启用 GitHub Actions 。
 
 3. 任意发起一次commit，可以参考下图流程修改readme文件。(可以不用操作，可以手动启动workflows)
 
@@ -157,7 +157,7 @@
 
 ---
 
-
+    
 
 ## 🚔声明
 
